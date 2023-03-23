@@ -24,7 +24,7 @@ Access most recent version of fEMR Operational Dashboard on Tableau to work:
 
 If the above does not work try the below methods:
 - Ask for Tableau Cloud access from Professor Klingenberg first. Once that is done, you should be able to go on Tableau Cloud and see our most recent work. 
-Our workbook that we use for CI is called "Sprint 9 - Final Winter Quarter Demo - Admin Dashboard Prototype" as of 3/22/23. 
+Our workbook that we use for version control is called "Sprint 9 - Final Winter Quarter Demo - Admin Dashboard Prototype" as of 3/22/23. 
 Ask Colin for access and then press Edit in any workbook on the Sprint 9 project. 
 Click "Publish As" on the top right and make your own Dashboard to build upon.
 
