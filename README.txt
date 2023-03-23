@@ -20,6 +20,10 @@ In Tableau > Connect > To a file > Adjust/display data to preference
  password = DB_CREDS = passed to you by admin
 
 Access most recent version of fEMR Operational Dashboard on Tableau:
+- First, try the link here and in this github repo: https://10az.online.tableau.com/t/cpsecapstonefemrdashboard/views/Sprint8-AdminDashboardPrototype/MainLandingPage
+
+If the above does not work try the below methods:
+
 - For Professor Klingenberg ONLY: Since you are the Tableau admin, you should be able to go on Tableau Cloud and see our most recent work. Our workbook that we use for CI is called "Sprint 9 - Final Winter Quarter Demo - Admin Dashboard Prototype" as of 3/22/23 and the dashboard demo can be found by following this path/sequence of buttons:
 Explore > default > Sprint 9 - Final Winter Quarter Demo - Admin Dashboard Prototype > Main Landing Page
 
