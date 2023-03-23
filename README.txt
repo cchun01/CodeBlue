@@ -19,15 +19,13 @@ In Tableau > Connect > To a file > Adjust/display data to preference
  Database = DB_HOST = 'central.c40st2ss4evd.us-west-2.rds.amazonaws.com'
  password = DB_CREDS = passed to you by admin
 
-Access most recent version of fEMR Operational Dashboard on Tableau:
+Access most recent version of fEMR Operational Dashboard on Tableau to work:
 - First, try the link here and in this github repo: https://10az.online.tableau.com/t/cpsecapstonefemrdashboard/views/Sprint8-AdminDashboardPrototype/MainLandingPage
 
 If the above does not work try the below methods:
+- Ask for Tableau Cloud access from Professor Klingenberg first. Once that is done, you should be able to go on Tableau Cloud and see our most recent work. Our workbook that we use for CI is called "Sprint 9 - Final Winter Quarter Demo - Admin Dashboard Prototype" as of 3/22/23. Ask Colin for access and then press Edit in any workbook on the Sprint 9 project. Click "Publish As" on the top right and make your own Dashboard to build upon.
 
-- For Professor Klingenberg ONLY: Since you are the Tableau admin, you should be able to go on Tableau Cloud and see our most recent work. Our workbook that we use for CI is called "Sprint 9 - Final Winter Quarter Demo - Admin Dashboard Prototype" as of 3/22/23 and the dashboard demo can be found by following this path/sequence of buttons:
-Explore > default > Sprint 9 - Final Winter Quarter Demo - Admin Dashboard Prototype > Main Landing Page
-
-- If the above does not work or you are not Professor Klingenberg, you can download the Tableau workbook we have in this repo (extension .twbx). If you have Tableau desktop, clicking on the file should open up Tableau Desktop. If not, you can just manually open it on the Desktop app.
+- If the above does not work, you can download the Tableau workbook we have in this repo (extension .twbx). If you have Tableau desktop, clicking on the file should open up Tableau Desktop. If not, you can just manually open and work on the Desktop app.
 
 CAUTION: To access our Dashboard on Tableau Cloud or Desktop, you may need the database creds above because it is connected to Prof. Klingenberg's central database.
 
