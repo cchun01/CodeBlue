@@ -1,5 +1,11 @@
 GH repo for the fEMR/CodeBlue Team for SE Capstone
 
+Link to tech spec: https://docs.google.com/document/d/1-XSHHEQp9-DIfkYrS3eT8o6G8JyqTZrLy5TLC_xme3I/edit?usp=sharing
+
+New tech spec changes:
+- Testing
+- Use Case Diagram
+
 Continuous Integration was created using GitHub Actions
 
 Link to Build History: https://github.com/cchun01/CodeBlue/actions
