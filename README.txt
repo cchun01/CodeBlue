@@ -16,7 +16,7 @@ In Tableau > Connect > To a file > Adjust/display data to preference
  - Tableau cloud > Home > New > Workbook > Connect to Data > Connectors > MySQL
 
  server = DB_USER = 'admin'
- Database = DB_HOST = 'central.c40st2ss4evd.us-west-2.rds.amazonaws.com'
+ Database = DB_HOST = 'centraltab.c40st2ss4evd.us-west-2.rds.amazonaws.com'
  password = DB_CREDS = passed to you by admin
 
 Access most recent version of fEMR Operational Dashboard on Tableau to work:
