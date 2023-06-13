@@ -5,13 +5,14 @@ Continuous Integration was created using GitHub Actions
 Link to Build History: https://github.com/cchun01/CodeBlue/actions
 
 Beta Release Instructions to set up environment:
+
 Access most recent version of fEMR Operational Dashboard on Tableau to work:
 - First, try the link here and in this github repo: https://10az.online.tableau.com/#/site/cpsecapstonefemrdashboard/views/Sprint12Prototype/MainLandingPage?:iid=1
 If the above does NOT WORK try the below methods:
 - Ask for Tableau Cloud access from Professor Klingenberg first. Once that is done, you should be able to go on Tableau Cloud and see our most recent work after logging in with credentials.
  	- You can also view the dashboard view on our project website.
-Our workbook that we use for version control is called "Sprint 12 Prototype" as of 5/19/23. 
-Ask Colin for access and then press Edit in any workbook on the Sprint 9 project. 
+Our workbook that we use for version control is called "Sprint 12 Prototype" as of 6/13/23. 
+Ask Colin for access and then press Edit in any workbook on the Sprint 12 Prototype project. 
 Click "Publish As" on the top right and make your own Dashboard to build upon.
  
  
@@ -20,12 +21,12 @@ If you have Tableau desktop, clicking on the file should open up Tableau Desktop
 If not, you can just manually open and work on the Desktop app.
  
 CAUTION: To access our Dashboard on Tableau Cloud or Desktop, you may need the database creds above because it is connected to Prof. Klingenberg's central database.
-Continuous Integration was created using GitHub Actions
-Link to Build History: https://github.com/cchun01/CodeBlue/actions 
+
 AWS access & Google drive project folder access will be provided to you.
  
 
 How to install and use the Tableau Operational Dashboard in Web Browser
+
 ACCESS BY TABLEAU CLOUD
  
 1.1) Use Tableau Cloud in a web browser
